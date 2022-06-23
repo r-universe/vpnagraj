@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rrefine"]
+	path = rrefine
+	url = https://github.com/vpnagraj/rrefine
+	shallow = true
+	registered = true
