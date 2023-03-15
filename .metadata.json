@@ -1,6 +1,14 @@
 [
   {
+    "package": "acroname",
+    "oncran": true
+  },
+  {
     "package": "rrefine",
+    "oncran": true
+  },
+  {
+    "package": "twoxtwo",
     "oncran": true
   }
 ]
