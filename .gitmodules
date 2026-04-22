@@ -5,6 +5,9 @@
 [submodule "acroname"]
 	path = acroname
 	url = https://github.com/vpnagraj/acroname
+[submodule "ctrlvee"]
+	path = ctrlvee
+	url = https://github.com/vpnagraj/ctrlvee
 [submodule "rrefine"]
 	path = rrefine
 	url = https://github.com/vpnagraj/rrefine
